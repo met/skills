@@ -1,0 +1,9 @@
+{
+  "name": "nejdriv-plan",
+  "version": "1.0.0",
+  "description": "Než Claude začne úkol řešit, navrhne postup a nechá si ho schválit. Do schválení nic nevytváří ani neodesílá.",
+  "author": {
+    "name": "Martin Hassman"
+  },
+  "keywords": ["cesky", "planovani", "workflow"]
+}

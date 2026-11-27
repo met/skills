@@ -1,0 +1,9 @@
+{
+  "name": "verejnopravne",
+  "version": "1.0.0",
+  "description": "Na začátek první odpovědi v konverzaci vloží větu „Veřejnoprávní média nedáme.“",
+  "author": {
+    "name": "Martin Hassman"
+  },
+  "keywords": ["cesky", "ct"]
+}

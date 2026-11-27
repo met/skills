@@ -1,0 +1,27 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "met-skills",
+  "owner": {
+    "name": "Martin Hassman"
+  },
+  "metadata": {
+    "description": "Osobní marketplace pluginů a skillů pro Claude Cowork a Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "verejnopravne",
+      "source": "./plugins/verejnopravne",
+      "description": "Na začátek první odpovědi v konverzaci vloží větu „Veřejnoprávní média nedáme.“",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "nejdriv-plan",
+      "source": "./plugins/nejdriv-plan",
+      "description": "Než Claude začne úkol řešit, navrhne postup a nechá si ho schválit. Do schválení nic nevytváří ani neodesílá.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
